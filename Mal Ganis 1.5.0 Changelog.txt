@@ -1,0 +1,11 @@
+Mal Ganis 1.5.0 Changelog
+
+- Mods updated to newest versions
+- Removal of Antique Atlas and Antique Waystones Mods
+- Removal of FTB backups (Other methods preferred)
+- Removal of MineTogether
+- Removal of Screenshot to Clipboard
+- Added Create and dependencies (Flywheel)
+- Updated Xaero's Minimap/Worldmap
+- Added Caves and Cliffs Backport
+- Added Cavebiome API
